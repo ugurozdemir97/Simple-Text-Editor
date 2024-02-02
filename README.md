@@ -1,0 +1,1 @@
+This is a simple text editor where you can cut, copy, paste text, change font type and font size. You can also open text files and save them. You can change background color and text color as well. It's very simple to use. Just run "Text Editor.py".
